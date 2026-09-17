@@ -1,6 +1,6 @@
-# AI engineering
+# AI security engineering
 
-Personal workspace for AI engineering coursework, learning notes, and experiments.
+Personal workspace for AI security engineering coursework, learning notes, and experiments.
 
 ## Local configuration
 
