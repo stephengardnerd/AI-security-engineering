@@ -2,7 +2,7 @@
 
 Use this checklist while completing **Apply Threat Modeling with STRIDE-ML — Exercise: Threat Model FinQuery**. Check each item only after it has been completed and reviewed.
 
-- [ ] Read the system context and name every component and trust boundary.
+- [x] Read the system context and name every component and trust boundary.
 - [ ] Complete the Tampering table: identify who can write to S3 and what a replaced document does at the next sync.
 - [ ] Complete the Information Disclosure table: analyze retrieval of an unauthorized document.
 - [ ] Complete the Elevation of Privilege table: analyze a document carrying model-directed instructions.
