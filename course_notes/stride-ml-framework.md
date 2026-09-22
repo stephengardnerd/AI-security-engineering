@@ -40,3 +40,7 @@ Retrieval-augmented generation adds a vector store and knowledge base. The vecto
 - A malicious prompt taking over the context: **Elevation of privilege**.
 - A decision with no authenticated audit trail: **Repudiation**.
 - Appending unvalidated user text to system instructions: **Tampering**.
+
+## Review reminder
+
+The fifth threat-modeling step uses likelihood and impact to create a ranked list, so the most serious threats are addressed first. The scores support prioritization; they are not primarily a compliance score, deletion decision, or mitigation-cost estimate.
