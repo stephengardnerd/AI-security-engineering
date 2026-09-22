@@ -37,3 +37,9 @@ If only one control can ship first, prioritize identity-aware, document-level au
 ## Progress log
 
 Update the checkboxes above as each requirement is completed. Add short notes here when a decision needs to be revisited.
+
+## Writing requirements
+
+- Write in clear, human-readable prose that sounds like Stephen D. Gardner wrote it.
+- Spell the author name **Stephen**, with “ph.”
+- Do not use em dashes.
