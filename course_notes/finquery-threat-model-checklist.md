@@ -14,8 +14,8 @@ Use this checklist while completing **Apply Threat Modeling with STRIDE-ML — E
 
 ## Stretch challenges
 
-- [ ] Add Spoofing, Repudiation, and Denial of Service tables for a complete six-category model.
-- [ ] Write a one-paragraph launch recommendation for an engineering lead.
+- [x] Add Spoofing, Repudiation, and Denial of Service tables for a complete six-category model.
+- [x] Write a one-paragraph launch recommendation for an engineering lead.
 
 ## Troubleshooting checks
 
