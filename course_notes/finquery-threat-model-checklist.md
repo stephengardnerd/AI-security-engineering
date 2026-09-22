@@ -17,6 +17,13 @@ Use this checklist while completing **Apply Threat Modeling with STRIDE-ML — E
 - [ ] Add Spoofing, Repudiation, and Denial of Service tables for a complete six-category model.
 - [ ] Write a one-paragraph launch recommendation for an engineering lead.
 
+## Troubleshooting checks
+
+- [ ] Make every threat concrete: name the actor, component, and outcome rather than repeating a category definition.
+- [ ] Prefer one well-defined threat per required category over several vague threats.
+- [ ] Justify likelihood by considering whether the attack needs special access or only an ordinary text input.
+- [ ] Justify impact by considering whether the result is merely embarrassing or creates a regulatory or material business problem.
+
 ## Working priorities
 
 1. Information Disclosure
