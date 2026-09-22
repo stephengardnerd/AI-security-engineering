@@ -12,6 +12,11 @@ Use this checklist while completing **Apply Threat Modeling with STRIDE-ML — E
 - [ ] Answer the single-control question and defend the choice.
 - [ ] Save the completed work as `starter/STRIDE_ML_COMPLETED.md` with placeholder text removed.
 
+## Stretch challenges
+
+- [ ] Add Spoofing, Repudiation, and Denial of Service tables for a complete six-category model.
+- [ ] Write a one-paragraph launch recommendation for an engineering lead.
+
 ## Working priorities
 
 1. Information Disclosure
